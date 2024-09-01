@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @prabeen
-- 👀 I’m interested in development
-- 🌱 I’m currently learning Java full-stack development
-- 💞️ I’m looking to collaborate on projects
-- 📫 reach me at instagram @prabeenn__
-- 😄 Pronouns: His
-  
+👋 Hi, I'm Prabeen Nayak
+💻 Java Full Stack Developer | Electronics & Communication Engineer (2022)
+🌟 Passionate about crafting efficient and scalable web applications.
+🔧 Skilled in Java, Spring Boot, React, REST APIs, and more.
+🚀 Always learning, always coding. Check out my projects below!
+📫 Let's connect: www.linkedin.com/in/prabeennayak
+
 
 <!---
 prabeennn/prabeennn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
