@@ -1,8 +1,8 @@
 👋 Hi, I'm Prabeen Nayak
-💻 Java Full Stack Developer | Electronics & Communication Engineer (2022)
-🌟 Passionate about crafting efficient and scalable web applications.
-🔧 Skilled in Java, Spring Boot, React, REST APIs, and more.
-🚀 Always learning, always coding. Check out my projects below!
+💻 Java Full Stack Developer | Electronics & Communication Engineer (2022)<br>
+🌟 Passionate about crafting efficient and scalable web applications.<br>
+🔧 Skilled in Java, Spring Boot, React, REST APIs, and more.<br>
+🚀 Always learning, always coding. Check out my projects below!<br>
 📫 Let's connect: www.linkedin.com/in/prabeennayak
 
 
